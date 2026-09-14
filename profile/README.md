@@ -31,6 +31,7 @@ Di dalam setiap repository, biasanya juga akan disertakan **tautan Google Drive*
 | Repository | Deskripsi |
 |---|---|
 | [Praktikum-Teknologi-Web-dan-Aplikasi-Semester-1](https://github.com/Andy-TRI-C-26/Praktikum-Teknologi-Web-dan-Aplikasi-Semester-1) | Mini project selama semester 1 |
+| [Praktikum-Algoritma-dan-Pemrograman-Semester-1](https://github.com/Andy-TRI-C-26/Praktikum-Algoritma-dan-Pemrograman-Semester-1) | berisi tugas |
 
 > Daftar ini akan terus diperbarui setiap ada mata kuliah baru dengan tugas coding.
 
@@ -64,6 +65,7 @@ Each repository will typically also include a **Google Drive link** containing t
 | Repository | Description |
 |---|---|
 | [Praktikum-Teknologi-Web-dan-Aplikasi-Semester-1](https://github.com/Andy-TRI-C-26/Praktikum-Teknologi-Web-dan-Aplikasi-Semester-1) | Mini project for semester 1 |
+| [Praktikum-Algoritma-dan-Pemrograman-Semester-1](https://github.com/Andy-TRI-C-26/Praktikum-Algoritma-dan-Pemrograman-Semester-1) | exercise |
 
 > This list will keep growing as new subjects with coding assignments are added.
 
