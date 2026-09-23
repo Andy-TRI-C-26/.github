@@ -23,7 +23,7 @@ Setiap repository mewakili satu mata kuliah pada semester tertentu, dengan forma
 <Nama-Mata-Kuliah>-Semester-<Angka>
 ```
 
-Di dalam setiap repository, biasanya juga akan disertakan **tautan Google Drive** berisi laporan praktikum/tugas untuk mata kuliah tersebut selama satu semester.
+<!--Di dalam setiap repository, biasanya juga akan disertakan **tautan Google Drive** berisi laporan praktikum/tugas untuk mata kuliah tersebut selama satu semester. -->
 
 ### Daftar Repository per Semester
 
@@ -57,7 +57,7 @@ Each repository represents one subject for a given semester, following this nami
 <Subject-Name>-Semester-<Number>
 ```
 
-Each repository will typically also include a **Google Drive link** containing the lab/assignment reports for that subject throughout the semester.
+<!--Each repository will typically also include a **Google Drive link** containing the lab/assignment reports for that subject throughout the semester.-->
 
 ### Repositories by Semester
 
