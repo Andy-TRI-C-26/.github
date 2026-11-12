@@ -31,7 +31,7 @@ Setiap repository mewakili satu mata kuliah pada semester tertentu, dengan forma
 | Repository | Deskripsi |
 |---|---|
 | [Praktikum-Teknologi-Web-dan-Aplikasi-Semester-1](https://github.com/Andy-TRI-C-26/Praktikum-Teknologi-Web-dan-Aplikasi-Semester-1) | Mini project selama semester 1 |
-| [Praktikum-Algoritma-dan-Pemrograman-Semester-1](https://github.com/Andy-TRI-C-26/Praktikum-Algoritma-dan-Pemrograman-Semester-1) | berisi tugas |
+| [Praktikum-Algoritma-dan-Pemrograman-Semester-1](https://github.com/Andy-TRI-C-26/Praktikum-Algoritma-dan-Pemrograman-Semester-1) | Kumpulan tugas dan latihan praktikum mata kuliah Algoritma dan Pemrograman Semester 1, mencakup Praktikum 2–14 dan Evaluasi Tengah Semester. |
 
 > Daftar ini akan terus diperbarui setiap ada mata kuliah baru dengan tugas coding.
 
@@ -65,7 +65,7 @@ Each repository represents one subject for a given semester, following this nami
 | Repository | Description |
 |---|---|
 | [Praktikum-Teknologi-Web-dan-Aplikasi-Semester-1](https://github.com/Andy-TRI-C-26/Praktikum-Teknologi-Web-dan-Aplikasi-Semester-1) | Mini project for semester 1 |
-| [Praktikum-Algoritma-dan-Pemrograman-Semester-1](https://github.com/Andy-TRI-C-26/Praktikum-Algoritma-dan-Pemrograman-Semester-1) | exercise |
+| [Praktikum-Algoritma-dan-Pemrograman-Semester-1](https://github.com/Andy-TRI-C-26/Praktikum-Algoritma-dan-Pemrograman-Semester-1) | Lab assignments and exercises for the Algorithms and Programming course (Semester 1), including Practicum 2–14 and the midterm evaluation. |
 
 > This list will keep growing as new subjects with coding assignments are added.
 
