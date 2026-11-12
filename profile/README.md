@@ -11,7 +11,7 @@ Collection of coursework, lab assignments, and mini projects — organized by se
 
 ### Tentang
 
-Organisasi ini dibuat oleh **Andy Satria Budi Utomo**, mahasiswa **Politeknik Elektronika Negeri Surabaya (PENS)**, angkatan **TRI C 2026**, untuk mengumpulkan seluruh tugas coding selama kuliah dalam satu tempat yang rapi dan mudah ditelusuri.
+Organisasi ini dibuat oleh **Andy Satria Budi Utomo**, mahasiswa **Politeknik Elektronika Negeri Surabaya (PENS)**, Program Studi **Tkenologi Rekayasa Internet**, angkatan **2026**, untuk mengumpulkan seluruh tugas coding selama kuliah dalam satu tempat yang rapi dan mudah ditelusuri.
 
 Organisasi ini bersifat personal (hanya dikelola oleh satu orang) dan akan terus bertambah isinya seiring berjalannya semester.
 
